@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/aslanzid"><img title="Github" src="https://img.shields.io/badge/Github-HTR--TECH-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aslanzid"><img title="Github" src="https://img.shields.io/badge/Github-ASLANZ--ID-blue?style=for-the-badge&logo=github"></a>
 <a href="https://instagram.com/aslanz17"><img title="Facebook" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
 <a href="https://twitter.com/Aslanzid"><img title="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
 <a href="https://www.youtube.com/channel/UCCCNt7VP-EorlaGiKTpE4dQ?view_as=subscriber"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
