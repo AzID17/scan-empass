@@ -7,12 +7,12 @@
 
 <p align="center">
 
-<img src="https://j.top4top.io/p_1694zbxxv0.jpg">
+<img src="https://j.top4top.io/p_1694zbxxv0.jpg" width="300">
 <br><br>
-#Empass
+
 <img src="https://h.top4top.io/p_1694pir010.jpg">
 <br><br>
-# Menu
+
 <img src="https://k.top4top.io/p_16947lcgo0.jpg">
 <br><br>
 
